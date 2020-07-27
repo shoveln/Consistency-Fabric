@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/boat",
+    "textures": {
+        "boat": "traverse:entity/boat/fir"
+    }
+}
