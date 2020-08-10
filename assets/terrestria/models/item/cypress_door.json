@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "terrestria:block/cypress_door_top",
+        "bottom": "terrestria:block/cypress_door_bottom"
+    }
+}
