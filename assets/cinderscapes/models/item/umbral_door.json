@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "cinderscapes:block/umbral_door_top",
+        "bottom": "cinderscapes:block/umbral_door_bottom"
+    }
+}
