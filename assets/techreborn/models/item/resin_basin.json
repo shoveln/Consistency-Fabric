@@ -1,0 +1,9 @@
+{
+    "parent": "techreborn:item/template/resin_basin",
+    "textures": {
+        "top": "techreborn:block/machines/tier0_machines/resin_basin/resin_bucket_top",
+        "side": "techreborn:block/machines/tier0_machines/resin_basin/resin_bucket_side",
+        "bottom": "techreborn:block/machines/tier0_machines/resin_basin/resin_bucket_bottom",
+        "inner": "techreborn:block/machines/tier0_machines/resin_basin/resin_bucket_inner"
+    }
+}
