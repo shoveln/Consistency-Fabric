@@ -1,6 +1,6 @@
 {
     "parent": "item/template/sign",
     "textures": {
-        "sign": "entity/signs/umbral"
+        "sign": "cinderscapes:entity/signs/umbral"
     }
 }
