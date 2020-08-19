@@ -1,0 +1,6 @@
+{
+    "parent": "techreborn:item/template/cable",
+    "textures": {
+        "cable": "techreborn:block/cables/tin_cable"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "parent": "techreborn:item/orientation/cable",
+    "elements": [
+        {   "from": [ 0, 5, 5 ],
+            "to": [ 6, 11, 11 ],
+            "faces": {
+                "up":    { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "down":  { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "north": { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "south": { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "west":  { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "east":  { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] }
+            }
+        },
+        {   "from": [ 6, 5, 5 ],
+            "to": [ 10, 11, 11 ],
+            "faces": {
+                "up":    { "texture": "#cable", "uv": [ 6, 6, 10, 12 ] },
+                "down":  { "texture": "#cable", "uv": [ 6, 6, 10, 12 ] },
+                "north": { "texture": "#cable", "uv": [ 6, 6, 10, 12 ] },
+                "south": { "texture": "#cable", "uv": [ 6, 6, 10, 12 ] }
+            }
+        },
+        {   "from": [ 10, 5, 5 ],
+            "to": [ 16, 11, 11 ],
+            "faces": {
+                "up":    { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "down":  { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "north": { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "south": { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "west":  { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] },
+                "east":  { "texture": "#cable", "uv": [ 0, 0, 6, 6 ] }
+            }
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "techreborn:item/template/insulated_cable",
+    "textures": {
+        "cable": "techreborn:block/cables/copper_insulated_cable"
+    }
+}
