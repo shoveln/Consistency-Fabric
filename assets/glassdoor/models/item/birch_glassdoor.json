@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "glassdoor:block/birch_door_top",
+        "bottom": "glassdoor:block/birch_door_bottom"
+    }
+}
