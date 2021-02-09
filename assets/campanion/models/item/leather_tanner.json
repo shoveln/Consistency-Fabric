@@ -1,0 +1,6 @@
+{
+    "parent": "campanion:item/template/leather_tanner",
+	"textures": {
+		"wood": "block/stripped_oak_log"
+	}
+}
