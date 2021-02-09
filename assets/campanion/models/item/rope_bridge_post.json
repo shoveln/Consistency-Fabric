@@ -1,0 +1,6 @@
+{
+    "parent": "campanion:item/template/rope_bridge_post",
+    "textures": {
+        "post": "campanion:ropebridge/stopper"
+    }
+}

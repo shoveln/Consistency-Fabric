@@ -1,0 +1,27 @@
+{
+    "parent": "campanion:item/orientation/rope_bridge_post",
+    "elements": [
+        {   "from": [ -2, 0, 6 ],
+            "to": [ 2, 16, 10 ],
+            "faces": {
+                "down":  { "uv": [ 0, 16, 4, 12 ], "texture": "#post" },
+                "up":    { "uv": [ 0, 12, 4, 16 ], "texture": "#post" },
+                "north": { "uv": [ 13, 0, 9, 16 ], "texture": "#post" },
+                "south": { "uv": [ 9, 0, 13, 16 ], "texture": "#post" },
+                "west":  { "uv": [ 13, 0, 9, 16 ], "texture": "#post" },
+                "east":  { "uv": [ 9, 0, 13, 16 ], "texture": "#post" }
+            }
+        },
+        {   "from": [ 14, 0, 6 ],
+            "to": [ 18, 16, 10 ],
+            "faces": {
+                "down":  { "uv": [ 0, 16, 4, 12 ], "texture": "#post" },
+                "up":    { "uv": [ 0, 12, 4, 16 ], "texture": "#post" },
+                "north": { "uv": [ 13, 0, 9, 16 ], "texture": "#post" },
+                "south": { "uv": [ 9, 0, 13, 16 ], "texture": "#post" },
+                "west":  { "uv": [ 13, 0, 9, 16 ], "texture": "#post" },
+                "east":  { "uv": [ 9, 0, 13, 16 ], "texture": "#post" }
+            }
+        }
+    ]
+}
