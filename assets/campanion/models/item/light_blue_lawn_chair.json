@@ -1,0 +1,8 @@
+{
+    "parent": "campanion:item/template/lawn_chair",
+	"textures": {
+		"legs": "block/stripped_oak_log",
+		"back": "block/oak_planks",
+        "wool": "block/light_blue_wool"
+	}
+}
