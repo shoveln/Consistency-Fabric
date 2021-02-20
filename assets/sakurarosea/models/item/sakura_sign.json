@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/sign",
+    "textures": {
+        "sign": "sakurarosea:entity/signs/sakura"
+    }
+}

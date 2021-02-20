@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/cake",
+    "textures": {
+        "bottom": "sakurarosea:blocks/cherry_pie_bottom",
+        "top": "sakurarosea:blocks/cherry_pie_top",
+        "side": "sakurarosea:blocks/cherry_pie_side"
+    }
+}

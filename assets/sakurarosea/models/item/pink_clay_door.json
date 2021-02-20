@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "sakurarosea:blocks/pink_clay_door_top",
+        "bottom": "sakurarosea:blocks/pink_clay_door_bottom"
+    }
+}
