@@ -1,0 +1,6 @@
+{
+    "parent": "charm:item/template/candle",
+    "textures": {
+        "candle": "charm:block/wax"
+    }
+}
