@@ -3,8 +3,11 @@ A Minecraft resource pack that changes some item models from sprites into their 
 
 ## Mod Compatibility
 - [Blockus](https://www.curseforge.com/minecraft/mc-mods/blockus)
+- [Campanion](https://www.curseforge.com/minecraft/mc-mods/campanion)
+- [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 - [Cinderscapes](https://www.curseforge.com/minecraft/mc-mods/cinderscapes)
 - [Modern Glass Doors](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors)
+- [Sakura Rosea](https://www.curseforge.com/minecraft/mc-mods/sakura-rosea)
 - [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 - [Terrestria](https://www.curseforge.com/minecraft/mc-mods/terrestria)
 - [Traverse](https://www.curseforge.com/minecraft/mc-mods/traverse)
